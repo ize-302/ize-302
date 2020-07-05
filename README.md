@@ -1,1 +1,1 @@
-Omo, I just dey code scatter
+E di noh work o
