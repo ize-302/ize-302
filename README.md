@@ -8,4 +8,4 @@ Huge fan of rapper 'Logic' till forever 😄
 
 Feel free to send reach me here: adavizeozorku@gmail.com
 
-PS: I'm open to remote offers
+PS: I'm open to remote opportunities
