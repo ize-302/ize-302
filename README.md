@@ -7,5 +7,3 @@ I love to work with Javacript, TypeScript, CSS, React, Vue and REST APIs and hav
 Huge fan of rapper 'Logic' till forever 😄
 
 Feel free to send reach me here: adavizeozorku@gmail.com
-
-PS: I'm open to remote opportunities
