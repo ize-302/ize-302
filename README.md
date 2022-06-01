@@ -15,5 +15,5 @@ Feel free to reach me here: adavizeozorku@gmail.com
 </a>
 
 <a href="https://github.com/ize-302/ize-302">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ze-302&hide=css,html&title_color=bebebe&text_color=bebebe&icon_color=309975&bg_color=111111" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ize-302&hide=css,html&title_color=bebebe&text_color=bebebe&icon_color=309975&bg_color=111111" />
 </a>
