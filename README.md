@@ -12,7 +12,7 @@ I'm a software engineer learning by building random stuff
 - [Open Bookmark API](https://github.com/ize-302/open-bookmark-api) - Backend service for public bookmark platform
 
 
-#### Chrome Extensions
+#### Browser Extensions
 - [hstry](https://github.com/ize-302/hstry) - 🔖 🌐 A Chrome Extension for tracking visits to selected URLs
 
 #### Mobile Apps
