@@ -1,7 +1,7 @@
 
 ### Hi, I'm Adavize
 
-I'm a software engineer learning by building random stuff
+I'm a software engineer tinkerering around and building random stuff
 
 ### Check out my projects
 
