@@ -10,7 +10,7 @@ Just tinkerering around, building random cool stuff
 - [Spoticast Web](https://github.com/ize-302/spoticast) - A standalone spotify podcast platform
 - [Open Bookmark FE](https://github.com/ize-302/open-bookmark-fe) - Client-side of public bookmark platform
 - [Open Bookmark API](https://github.com/ize-302/open-bookmark-api) - Backend service for public bookmark platform
-- [mono-get-institution](https://github.com/ize-302/mono-get-institution) - :bank: A simple server to fetch a specific banking institution from mono's institutions list
+- [mono-get-institution](https://github.com/ize-302/mono-get-institution) - :bank: A url endpoint to fetch a specific banking institution from mono's
 
 
 #### Browser Extensions
