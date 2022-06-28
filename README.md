@@ -6,7 +6,7 @@ Just tinkerering around, building random cool stuff
 ### Check out my projects
 
 #### Web
-- [Manage Repos](https://github.com/ize-302/manage-repos) - Update & delete your github repositories easily
+- [Manage Repos](https://github.com/ize-302/manage-repos) - 🟩 :black_square: Update & delete your github repositories easily
 - [Spoticast Web](https://github.com/ize-302/spoticast) - A standalone spotify podcast platform
 - [Open Bookmark FE](https://github.com/ize-302/open-bookmark-fe) - Client-side of public bookmark platform
 - [Open Bookmark API](https://github.com/ize-302/open-bookmark-api) - Backend service for public bookmark platform
