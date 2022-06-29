@@ -6,10 +6,10 @@ Just tinkerering around, building random cool stuff
 ### Check out my projects
 
 #### Web
-- [Manage Repos](https://github.com/ize-302/manage-repos) - ⬛🟩 Update & delete your github repositories easily
-- [Spoticast Web](https://github.com/ize-302/spoticast) - A standalone spotify podcast platform
-- [Open Bookmark FE](https://github.com/ize-302/open-bookmark-fe) - Client-side of public bookmark platform
-- [Open Bookmark API](https://github.com/ize-302/open-bookmark-api) - Backend service for public bookmark platform
+- [manage-repos](https://github.com/ize-302/manage-repos) - ⬛🟩 Update & delete your github repositories easily
+- [spoticast](https://github.com/ize-302/spoticast) - A standalone spotify podcast platform
+- [open-bookmark-fe](https://github.com/ize-302/open-bookmark-fe) - Client-side of public bookmark platform
+- [open-bookmark-api](https://github.com/ize-302/open-bookmark-api) - Backend service for public bookmark platform
 - [mono-get-institution](https://github.com/ize-302/mono-get-institution) - :bank: A url endpoint to fetch a specific banking institution from mono's
 
 
@@ -23,5 +23,5 @@ Just tinkerering around, building random cool stuff
 
 
 #### Mobile Apps
-- [Outloud App UI](https://github.com/ize-302/outloud-App) - User interface for Outloud App. An App for those who are going through difficult times and can't share with anyone
-- [Music Player UI](https://github.com/ize-302/music-player) - Music player app built with TypeScript & React native. Bootstrapped with Expo
+- [outloud-app](https://github.com/ize-302/outloud-App) - User interface for Outloud App. An App for those who are going through difficult times and can't share with anyone
+- [music-player](https://github.com/ize-302/music-player) - Music player app built with TypeScript & React native. Bootstrapped with Expo
