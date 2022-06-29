@@ -1,7 +1,7 @@
 
 ### Hi, I'm Adavize
 
-Just tinkerering around, building random cool stuff
+Just tinkerering around, building random stuff
 
 ### Check out my projects
 
