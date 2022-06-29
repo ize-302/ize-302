@@ -17,7 +17,9 @@ Just tinkerering around, building random cool stuff
 - [hstry](https://github.com/ize-302/hstry) - 🔖 🌐 A Chrome Extension for tracking visits to selected URLs
 
 #### Open-source contributions
-- [gh-emojis](https://github.com/privatenumber/gh-emojis) by [privatenumber](https://github.com/privatenumber) - Use GitHub emojis from their API as an npm package
+- [gh-emojis](https://github.com/privatenumber/gh-emojis) - Use GitHub emojis from their API as an npm package
+- [nigerian-banks](https://github.com/ichtrojan/nigerian-banks) - An API that provides Nigerian bank logos, slug and code.
+- [nigerialogos](https://github.com/PaystackHQ/nigerialogos) - High quality vector logos for Nigerian companies
 
 
 #### Mobile Apps
