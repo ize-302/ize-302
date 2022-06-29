@@ -16,6 +16,10 @@ Just tinkerering around, building random cool stuff
 #### Browser Extensions
 - [hstry](https://github.com/ize-302/hstry) - 🔖 🌐 A Chrome Extension for tracking visits to selected URLs
 
+#### Open-source contributions
+- [gh-emojis](https://github.com/privatenumber/gh-emojis) by [privatenumber](https://github.com/privatenumber) - Use GitHub emojis from their API as an npm package
+
+
 #### Mobile Apps
 - [Outloud App UI](https://github.com/ize-302/outloud-App) - User interface for Outloud App. An App for those who are going through difficult times and can't share with anyone
 - [Music Player UI](https://github.com/ize-302/music-player) - Music player app built with TypeScript & React native. Bootstrapped with Expo
