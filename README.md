@@ -20,7 +20,7 @@ Just tinkerering around, building stuffs that interests me
 - [gh-emojis](https://github.com/privatenumber/gh-emojis) - Use GitHub emojis from their API as an npm package
 - [nigerian-banks](https://github.com/ichtrojan/nigerian-banks) - An API that provides Nigerian bank logos, slug and code.
 - [nigerialogos](https://github.com/PaystackHQ/nigerialogos) - High quality vector logos for Nigerian companies
-
+- [json-calendar](https://github.com/rxgx/json-calendar) - 📆 A JSON data object that I used to display a calendar web UI.
 
 #### Mobile Apps
 - [outloud-app](https://github.com/ize-302/outloud-App) - User interface for Outloud App. An App for those who are going through difficult times and can't share with anyone
