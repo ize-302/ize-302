@@ -15,6 +15,7 @@ Just tinkerering around, building stuffs that interests me
 
 #### Browser Extensions
 - [hstry](https://github.com/ize-302/hstry) - 🔖 🌐 A Chrome Extension for tracking visits to selected URLs
+- [CMD+B](https://cmdb.ize-302.dev) - 🔖 🌐 A Chrome Extension for better bookmarking experience
 
 #### Open-source contributions
 - [gh-emojis](https://github.com/privatenumber/gh-emojis) - Use GitHub emojis from their API as an npm package
