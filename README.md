@@ -11,7 +11,7 @@ Just tinkerering around, building stuffs that interests me
 - [open-bookmark-fe](https://github.com/ize-302/open-bookmark-fe) - Client-side of public bookmark platform
 - [open-bookmark-api](https://github.com/ize-302/open-bookmark-api) - Backend service for public bookmark platform
 - [mono-get-institution](https://github.com/ize-302/mono-get-institution) - :bank: A url endpoint to fetch a specific banking institution from mono's
-
+- [jobroad](https://github.com/ize-302/jobroad) - :briefcase: A webapp to keep track of your job applications
 
 #### Browser Extensions
 - [hstry](https://github.com/ize-302/hstry) - 🔖 🌐 A Chrome Extension for tracking visits to selected URLs
