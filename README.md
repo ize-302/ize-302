@@ -4,7 +4,7 @@
 I am an experienced software developer interested in shipping products that users love. Passionate about UIs, DevOps, testing, clean code
 
 ##### SKILLS
-`Javascript` `TypeScript` `` `React.js` `Vue`
+`Javascript` `TypeScript` `React.js` `React native` `Vue` `Next.js` `Nuxtjs` `Node.js` `testing` `CI/CD` 
 
 ##### PRODUCTS
 
