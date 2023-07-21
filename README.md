@@ -14,6 +14,7 @@ I am an experienced software developer interested in shipping products that user
 - [🏦 mono-get-institution](https://github.com/ize-302/mono-get-institution) - A url endpoint to fetch a specific banking institution from mono's
 - [🌐 hstry](https://github.com/ize-302/hstry) - A Chrome Extension for tracking visits to selected URLs
 - [🔖 CMD+B](https://cmdb.ize-302.dev) - A Chrome Extension for better bookmarking experience
+- [🤖 ChatGPT Clone](https://github.com/ize-302/openai-playground-clone) - ChatGPT clone with speech-to-text support
 
 #### Open-source contributions
 - [gh-emojis](https://github.com/privatenumber/gh-emojis) - Use GitHub emojis from their API as an npm package
