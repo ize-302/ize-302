@@ -16,7 +16,8 @@ I am an experienced software developer interested in shipping products that user
 - [🔖 CMD+B](https://cmdb.ize-302.dev) - A Chrome Extension for better bookmarking experience
 - [🤖 ChatGPT Clone](https://github.com/ize-302/openai-playground-clone) - ChatGPT clone with speech-to-text support
 - [🔥 gh-user-activity-tab](https://github.com/ize-302/gh-user-activity-tab) - A Chrome extension to view activities of a Github user
-- [🐦 twitter-clone-api](https://github.com/ize-302/twitter-clone-api) - A tiny app implementing twitter core feature 
+- [🐦 twitter-clone-api](https://github.com/ize-302/twitter-clone-api) - A tiny app implementing twitter core feature
+- [📦 browser-extension-boilerplate](https://github.com/ize-302/browser-extension-boilerplate) - Boilerplate for browser extension with page-inject support via Shadow DOM
 
 #### Open-source contributions
 - [gh-emojis](https://github.com/privatenumber/gh-emojis) - Use GitHub emojis from their API as an npm package
