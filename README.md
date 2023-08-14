@@ -6,7 +6,7 @@ Software developer building tools for developers and users alike
 ![Adavize's GitHub stats](https://github-readme-stats.vercel.app/api?username=ize-302&show_icons=true&count_private=true&theme=swift)
 
 
-##### PRODUCTS
+### PROJECTS
 
 #### Web
 - [⭐ rate-sq](https://github.com/ize-302/rate-sq) - Web app for rating opening sequence of tv shows
