@@ -3,6 +3,8 @@
 
 I am an experienced software developer interested in shipping products that users love. Passionate about UIs, DevOps, testing, clean code
 
+![Adavize's GitHub stats](https://github-readme-stats.vercel.app/api?username=ize-302&show_icons=true&count_private=true)
+
 ##### SKILLS
 `Javascript` `TypeScript` `React.js` `React native` `Vue` `Next.js` `Nuxtjs` `Node.js` `testing` `CI/CD` 
 
