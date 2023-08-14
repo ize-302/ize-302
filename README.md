@@ -9,7 +9,7 @@ I am a software developer solving problems for developers and end-users alike
 ### PROJECTS
 
 #### Web
-[⭐ rate-sq](https://github.com/ize-302/rate-sq) - Web app for rating opening sequence of tv shows
+[⭐ rate-sq](https://github.com/ize-302/rate-sq) - Web app for rating opening sequence of tv shows<br>
 [🟩 manage-repos](https://github.com/ize-302/manage-repos) - Update & delete your github repositories easily
 [🏦 mono-get-institution](https://github.com/ize-302/mono-get-institution) - A url endpoint to fetch a specific banking institution from mono's
 [🌐 hstry](https://github.com/ize-302/hstry) A Chrome Extension for tracking visits to selected URLs
