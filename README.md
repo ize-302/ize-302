@@ -1,7 +1,7 @@
 
-### Hi, I'm Adavize
+### Ize (/eezay/) here 👋🏼
 
-Software developer building tools for developers and users alike
+I am a software developer solving problems for developers and end-users alike
 
 ![Adavize's GitHub stats](https://github-readme-stats.vercel.app/api?username=ize-302&show_icons=true&count_private=true&theme=swift)
 
