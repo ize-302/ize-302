@@ -1,12 +1,10 @@
 
 ### Hi, I'm Adavize
 
-I am an experienced software developer interested in shipping products that users love. Passionate about UIs, DevOps, testing, clean code
+Software developer building tools for developers and users alike
 
-![Adavize's GitHub stats](https://github-readme-stats.vercel.app/api?username=ize-302&show_icons=true&count_private=true)
+![Adavize's GitHub stats](https://github-readme-stats.vercel.app/api?username=ize-302&show_icons=true&count_private=true&theme=swift)
 
-##### SKILLS
-`Javascript` `TypeScript` `React.js` `React native` `Vue` `Next.js` `Nuxtjs` `Node.js` `testing` `CI/CD` 
 
 ##### PRODUCTS
 
