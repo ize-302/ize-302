@@ -1,10 +1,11 @@
 
 ### Ize (/eezay/) here 👋🏼
 
-I am a software developer solving problems for developers and end-users alike
-
+Experienced software engineer with 5 years expertise in web development and a proven track record of delivering high-quality code, optimising performance, and leading cross-functional teams to successful project completion. Seeking remote opportunities to contribute technical skills and problem-solving abilities.
+#
+[My resume](https://www.canva.com/design/DAFnc2oaqIQ/SjIhFmknePpJkmN1uHcTYg/edit?utm_content=DAFnc2oaqIQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | [Email me](mailto:adavizeozorku@gmail.com) | [Website](https://ize-302.dev) | [LinkedIn](https://linkedin.com/in/adavize-hassan)
+#
 ![Adavize's GitHub stats](https://github-readme-stats.vercel.app/api?username=ize-302&show_icons=true&count_private=true&theme=swift)
-
 
 ### PROJECTS
 
@@ -25,9 +26,3 @@ I am a software developer solving problems for developers and end-users alike
 [🏦 nigerian-banks](https://github.com/ichtrojan/nigerian-banks) An API that provides Nigerian bank logos, slug and code.<br>
 [☮️ nigerialogos](https://github.com/PaystackHQ/nigerialogos) High quality vector logos for Nigerian companies<br>
 [📅 json-calendar](https://github.com/rxgx/json-calendar) - A JSON data object that I used to display a calendar web UI.<br>
-
-##### WORKING ON
-[💼 Jobroad](https://jobraod.co) web-based job applications and interviews tracker.
-
-#
-If you'd like to discuss any sort of opportunity, feel free to [contact me](mailto:adavizeozorku@gmail.com).
