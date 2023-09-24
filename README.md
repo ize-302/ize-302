@@ -19,7 +19,7 @@ Experienced software engineer with 5 years expertise in web development and a pr
 - [:bird: twitter-clone-api](https://github.com/ize-302/twitter-clone-api), A tiny app implementing twitter core feature
 - [:package: browser-extension-boilerplate](https://github.com/ize-302/browser-extension-boilerplate), Boilerplate for browser extension with page-inject support via Shadow DOM
 - [:package: :policeman: pkg-police](https://github.com/ize-302/pkg-police), A command line tool that lists out packages that are being used and those that aren't in a project
-- [:🗺️ border-ng-js](https://github.com/ize-302/border-ng-js), A JavaScript package that indicates whether a provided coordinate falls within the borders of Nigeria 
+- [🗺️ border-ng-js](https://github.com/ize-302/border-ng-js), A JavaScript package that indicates whether a provided coordinate falls within the borders of Nigeria 
 
 ##### OPEN-SOURCE CONTRIBUTIONS
 - [:smiley: gh-emojis](https://github.com/privatenumber/gh-emojis), Use GitHub emojis from their API as an npm package
