@@ -3,7 +3,7 @@
 
 Experienced software engineer with 5 years expertise in web development and a proven track record of delivering high-quality code, optimising performance, and leading cross-functional teams to successful project completion. Seeking remote opportunities to contribute technical skills and problem-solving abilities.
 #
-[My resume](https://www.canva.com/design/DAFnc2oaqIQ/SjIhFmknePpJkmN1uHcTYg/edit?utm_content=DAFnc2oaqIQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | [Email me](mailto:adavizeozorku@gmail.com) | [Website](https://ize-302.dev) | [LinkedIn](https://linkedin.com/in/adavize-hassan)
+[My resume](https://www.canva.com/design/DAFnc2oaqIQ/SjIhFmknePpJkmN1uHcTYg/edit?utm_content=DAFnc2oaqIQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | [Email me](mailto:adavize302@gmail.com) | [Website](https://ize-302.dev) | [LinkedIn](https://linkedin.com/in/adavize-hassan)
 #
 ![Adavize's GitHub stats](https://github-readme-stats.vercel.app/api?username=ize-302&show_icons=true&count_private=true&theme=swift)
 
