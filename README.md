@@ -68,3 +68,5 @@ Currently learning [🐳 Docker mastery](https://www.udemy.com/course-dashboard-
 - [:bank: nigerian-banks](https://github.com/ichtrojan/nigerian-banks), An API that provides Nigerian bank logos, slug and code.
 - [:nigeria: nigerialogos](https://github.com/PaystackHQ/nigerialogos), High quality vector logos for Nigerian companies
 - [:calendar: json-calendar](https://github.com/rxgx/json-calendar), A JSON data object that I used to display a calendar web UI.
+
+> Technology is destructive only in the hands of people who do not realize that they are one and the same process as the universe - Alan Watts
