@@ -15,8 +15,6 @@
 
 I am an experienced software developer and hobbyist. Currently, I am focused on acquiring skills to become a DevOps/Cloud engineer. Recently, I have developed an interest in CI/CD automation, scripting, cloud systems and infrastructures, as well as virtual networking and security.
 
-Currently learning [🐳 Docker mastery](https://www.udemy.com/course-dashboard-redirect/?course_id=1035000) with [Bret Fisher](https://github.com/bretfisher). You may be interested in my [notes](https://github.com/ize-302/docker-mastery-notes)
-
 #
 
 <h3>
