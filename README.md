@@ -4,7 +4,7 @@
 
 ### Hi there 👋, I am ize.
 
-Self described software engineer and hobbyist who enjoys creating efficient software solutions. When I'm not coding for work, I'm diving into new tech as a hobbyist, contributing to open-source projects, and always on the lookout for the next big thing to learn. Aside tinkering with code, you can find me exploring the world of CI/CD automation and scripting. I also have a deep interest in cloud systems and infrastructures, as well as virtual networking and security.
+Self described software engineer and hobbyist who enjoys creating efficient software solutions. When I'm not coding for work, I'm diving into new tech as a hobbyist, contributing to open-source projects, and always on the lookout for the next big thing to learn. Aside tinkering with code, you can find me exploring the world of automation and scripting.
 
 You can learn more about my experience via my Linkedin page:
 
