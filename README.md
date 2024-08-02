@@ -1,19 +1,18 @@
-> I am currently searching for a new role in frontend, backend, or full-stack web development. If you have any open opportunities that you believe I could be a great fit for, please send me an [email](mailto:adavize302@gmail.com). Thank you! 🙏
+<img src='https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif' height='195px'/>
 
-#
+<br/>
 
-### Hi there 👋, I am ize
+### Hi there 👋, I am ize.
 
-<img src='https://media.giphy.com/media/kPVTbiTORIopy/giphy.gif' height='195px'/>
+Self described software engineer and hobbyist who enjoys creating efficient software solutions. When I'm not coding for work, I'm diving into new tech as a hobbyist, contributing to open-source projects, and always on the lookout for the next big thing to learn. Aside tinkering with code, you can find me exploring the world of CI/CD automation and scripting. I also have a deep interest in cloud systems and infrastructures, as well as virtual networking and security.
 
+You can learn more about my experience via my Linkedin page:
 
 <div id="badges">
   <a href="https://linkedin.com/in/adavize-hassan">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-
-I am an experienced software developer and hobbyist. Currently, I am focused on acquiring skills to become a DevOps/Cloud engineer. Recently, I have developed an interest in CI/CD automation, scripting, cloud systems and infrastructures, as well as virtual networking and security.
 
 #
 
@@ -39,5 +38,7 @@ I am an experienced software developer and hobbyist. Currently, I am focused on 
   <img src='https://cdn.jsdelivr.net/gh/PKief/vscode-material-icon-theme/icons/docker.svg' height='50px' />
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="aws" alt="aws" height="50"/>
 </div>
+
+#
 
 > Technology is destructive only in the hands of people who do not realize that they are one and the same process as the universe - Alan Watts
