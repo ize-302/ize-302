@@ -17,12 +17,10 @@ I'm a software hobbyist who loves crafting clean, efficient software. Outside of
   <img src='https://cdn.jsdelivr.net/gh/PKief/vscode-material-icon-theme/icons/html.svg' height='50px' /> 
   <img src='https://cdn.jsdelivr.net/gh/PKief/vscode-material-icon-theme/icons/css.svg' height='50px' />
   <img src='https://cdn.jsdelivr.net/gh/PKief/vscode-material-icon-theme/icons/tailwindcss.svg' height='50px' />
-  <img src='https://cdn.jsdelivr.net/gh/PKief/vscode-material-icon-theme/icons/javascript.svg' height='50px' />
   <img src='https://cdn.jsdelivr.net/gh/PKief/vscode-material-icon-theme/icons/typescript.svg' height='50px' />
   <img src='https://cdn.jsdelivr.net/gh/PKief/vscode-material-icon-theme/icons/python.svg' height='50px' />
   <img src='https://cdn.jsdelivr.net/gh/PKief/vscode-material-icon-theme/icons/nodejs.svg' height='50px' />
   <img src='https://cdn.jsdelivr.net/gh/PKief/vscode-material-icon-theme/icons/zig.svg' height='50px' />
-  <img src='https://cdn.jsdelivr.net/gh/PKief/vscode-material-icon-theme/icons/graphql.svg' height='50px' />
   <img src='https://cdn.jsdelivr.net/gh/PKief/vscode-material-icon-theme/icons/react.svg' height='50px' />
   <img src='https://cdn.jsdelivr.net/gh/PKief/vscode-material-icon-theme/icons/vue.svg' height='50px' />
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="flask" alt="flask" height="50"/>
